@@ -3,16 +3,14 @@
 I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 
 ### 🔍 About Me
-I'm love **coding**, **3D modeling**, **mathematics**, and **radio communications**—I've passed the Radio Amateur Exam in Hong Kong (just waiting on that license now!).
-In my downtime, I love reading books and watching videos on these subjects to expand my horizons.
+I'm love **coding**, **3D modeling**, **mathematics**, and **radio communications**
+I've passed the Radio Amateur Exam in Hong Kong (just waiting on that license now!).
 
 ### 💻 Skills & Technologies
 - **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript and straight to the good stuff lol)
 - **Frameworks & Tools**: FastAPI, Spring, React
 - **Machine Learning**: Diving into ML algorithms and building them with PyTorch
 - **Databases**: PostgreSQL and MongoDB
-
-I'm constantly tinkering with new projects and ideas. If anything catches your eye, let's team up and create something awesome!
 
 ### 📫 Get in Touch
 - **Instagram**: Hit me up via DM at my GitHub username
@@ -30,7 +28,8 @@ When I'm not glued to my code editor, I'm gaming hard:
 3. **Shapez 2** (a factory-building game all about shapes)
 4. A mix of visual novel games
 
-Thanks for visiting! Dive into my repos, star what you like, or drop me a message—let's connect! 🚀
+Thanks for visiting!
+I'm constantly tinkering with new projects and ideas. If anything catches your eye, let's team up and create something awesome! 🚀
 <!--
 **0x5916/0x5916** is a ✨ _special_ ✨ repository because its `README.dmd` (this file) appears on your GitHub profile.
 
