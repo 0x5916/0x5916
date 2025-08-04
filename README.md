@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong fueled by a passion for technology and creativity.
+I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 
 ### 🔍 About Me
 I'm love **coding**, **3D modeling**, **mathematics**, and **radio communications**—I've passed the Radio Amateur Exam in Hong Kong (just waiting on that license now!).
