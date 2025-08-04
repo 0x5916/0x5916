@@ -3,8 +3,7 @@
 I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 
 ### 🔍 About Me
-I'm love **coding**, **3D modeling**, **mathematics**, and **radio communications**
-I've passed the Radio Amateur Exam in Hong Kong (just waiting on that license now!).
+I'm love **coding**, **3D modeling**, **mathematics**, and **radio communications** (Passed HKRAE)
 
 ### 💻 Skills & Technologies
 - **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript and straight to the good stuff lol)
