@@ -19,9 +19,10 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 
 <details open>
   <summary>📫 Get in Touch</summary>
-  **Instagram**: 0x5916
+
   **Email**: alan@nexhash.net
-  **Website**: Check out nexhash.net for more about me and my work!
+  **Instagram**: 0x5916
+  **Website**: me.nexhash.net (Preparing)
 </details>
 
 <details>
@@ -44,4 +45,5 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
   - A mix of visual novel games
 </details>
 
-Thanks for visiting! I'm constantly tinkering with new projects and ideas. If anything catches your eye, let's team up and create something awesome! 🚀
+Thanks for visiting! I'm constantly tinkering with new projects and ideas.
+If anything catches your eye, let's team up and create something awesome!
