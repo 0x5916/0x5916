@@ -11,22 +11,24 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 <details>
   <summary>💻 Skills & Technologies</summary>
   
-  **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript and straight to the good stuff lol)  
+  **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript lol)  
   **Frameworks & Tools**: FastAPI, Spring, React  
   **Machine Learning**: Diving into ML algorithms and building them with PyTorch  
   **Databases**: PostgreSQL and MongoDB
 </details>
 
-<details>
+<details open>
   <summary>📫 Get in Touch</summary>
-  
+  **Instagram**: 0x5916
+  **Email**: alan@nexhash.net
   **Website**: Check out nexhash.net for more about me and my work!
 </details>
 
 <details>
   <summary>🎉 Fun Fact</summary>
   
-  My coding adventure began in 2021 on my first laptop - FUJITSU U537 with an Intel i5-7200U CPU. Fun part: the CPU's device ID is 0x5916, which became my GitHub username! (Bonus: No one’s spotted that easter egg yet)
+  My coding adventure began in 2021 on my first laptop - FUJITSU U537 with an Intel i5-7200U CPU.
+**Fun part**: the CPU's device ID is 0x5916, which became my GitHub username! (Bonus: No one’s spotted that easter egg yet)
 </details>
 
 <details>
