@@ -11,10 +11,10 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 <details>
   <summary>💻 Skills & Technologies</summary>
   
-  **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript lol)  
-  **Frameworks & Tools**: FastAPI, Spring, React  
-  **Machine Learning**: Diving into ML algorithms and building them with PyTorch  
-  **Databases**: PostgreSQL and MongoDB
+    **Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript lol)  
+    **Frameworks & Tools**: FastAPI, Spring, React  
+    **Machine Learning**: Diving into ML algorithms and building them with PyTorch  
+    **Databases**: PostgreSQL and MongoDB
 </details>
 
 <details open>
