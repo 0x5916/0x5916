@@ -22,7 +22,7 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 
   &emsp;**Email**: alan@nexhash.net  
   &emsp;**Instagram**: 0x5916  
-  &emsp;**Website**: https://me.nexhash.net/ (Preparing)
+  &emsp;**Website**: https://me.nexhash.net/ (Still building...)
 </details>
 
 <details>
