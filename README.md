@@ -28,9 +28,9 @@ I'm **Alan** (full name: King Him Yeung), a 17-year-old student from Hong Kong.
 <details>
   <summary>🎉 Fun Fact</summary>
   
-  &emsp;My coding adventure began in 2021 on my first laptop - FUJITSU U537 with an Intel i5-7200U CPU.
+  &emsp;My coding adventure began in 2018 on my first laptop - FUJITSU U537 with an Intel i5-7200U CPU.
 
-  &emsp;**Fun part**: the CPU's device ID is 0x5916, which became my GitHub username! (Bonus: No one’s spotted that easter egg yet)
+  &emsp;**Fun part**: the CPU's device ID is 0x5916, which became my username!
 </details>
 
 <details>
