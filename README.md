@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
+I'm **Alan** (full name: King Him Yeung), a 17-year-old student from Hong Kong.
 
 <details open>
   <summary>🔍 About Me</summary>
@@ -11,9 +11,9 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 <details>
   <summary>💻 Skills & Technologies</summary>
   
-  &emsp;**Languages**: Python, Kotlin, Java, TypeScript (skipped JavaScript lol)  
-  &emsp;**Frameworks & Tools**: FastAPI, Spring, React  
-  &emsp;**Machine Learning**: Diving into ML algorithms and building them with PyTorch  
+  &emsp;**Languages**: Python (7 Years!), Kotlin, Go, TypeScript
+  &emsp;**Frameworks & Tools**: Gin (Fav!), FastAPI, Spring; Svelte (Fav!), React
+  &emsp;**Machine Learning**: Diving into ML algorithms and building them with PyTorch
   &emsp;**Databases**: PostgreSQL and MongoDB
 </details>
 
@@ -21,7 +21,7 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
   <summary>📫 Get in Touch</summary>
 
   &emsp;**Email**: alan@nexhash.net  
-  &emsp;**Instagram**: 0x5916  
+  &emsp;**Instagram**: 0x5916
   &emsp;**Website**: https://me.nexhash.net/ (Still building...)
 </details>
 
@@ -36,7 +36,7 @@ I'm **Alan** (full name: King Him Yeung), a 16-year-old student from Hong Kong.
 <details>
   <summary>🎮 What I'm Playing</summary>
   
-  &emsp;When I'm not glued to my code editor, I'm gaming hard:  
+  &emsp;When I'm not glued to my code editor, I'm gaming hard:
   
   *&emsp;*Music Games:** Arcaea, Phigros, ADOFAI, Paradigm:Reboot  
   &emsp;**Zenless Zone Zero**  
