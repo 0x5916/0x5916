@@ -39,9 +39,7 @@ I'm **Alan** (full name: King Him Yeung), a 17-year-old student from Hong Kong.
   &emsp;When I'm not glued to my code editor, I'm gaming hard:
   
   *&emsp;*Music Games:** Arcaea, Phigros, ADOFAI, Paradigm:Reboot  
-  &emsp;**Zenless Zone Zero**  
-  &emsp;**Shapez 2** (a factory-building game all about shapes)  
-  &emsp;A mix of **Visual Novel Games**
+  &emsp;**Shapez 2** (a factory-building game all about shapes)
 </details>
 
 Thanks for visiting! I'm constantly tinkering with new projects and ideas.  
